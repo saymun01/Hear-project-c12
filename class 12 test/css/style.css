@@ -1,0 +1,40 @@
+
+/* color edit */
+.text-primary {
+    color: #3f454d !important;
+}
+.bg-primary {
+    background-color: #3f454d !important;
+}
+
+.text-secondary {
+    color: #00afaa !important;
+}
+.bg-secondary {
+    background-color: #00afaa !important;
+}
+.bg-success {
+    background-color: #ffc107 !important;
+}
+.text-success {
+    color: #ffc107 !important;
+}
+
+/* banner edit */
+.banner {
+    background-image: url(../image/ima.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 250px 0;
+}
+
+/* form edit */
+.contact {
+    background-color: #1B222C;
+}
+
+/* footer edit */
+.footer {
+    background-color: #3F454D;
+}
